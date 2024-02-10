@@ -1,2 +1,44 @@
-# Valentines-day-website
-SImple valentines day card using HTML, CSS and JS
+# Valentines day website
+Made with HTML, CSS and JS
+
+## Getting Started
+
+These instructions will give you a copy of the project up and running on
+your local machine for your personal use.e
+
+### Prerequisites
+
+A working brain
+A computer
+
+### Installing
+
+1. Install the repo and extract the "Website folder"
+
+2. Then run index.html, do not delete any contents
+
+## Built With
+
+  - [AnimeJS](https://animejs.com/) - Open source animation library for JS
+    
+  - [Creative Commons](https://creativecommons.org/) - Used to choose
+    the license
+
+## Contributing
+
+Contributions are temporarily closed.
+
+## Authors
+
+  - **Billie Thompson** - *Provided README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details
+
+## Acknowledgments
+
+Inspired by [mewtru.com](https://valentine.mewtru.com/)
