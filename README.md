@@ -1,10 +1,11 @@
 # Valentines day website
 Made with HTML, CSS and JS
+https://defrostedjpg.github.io/Valentines-day-website/Website/
 
-## Getting Started
+## How to run locally
 
 These instructions will give you a copy of the project up and running on
-your local machine for your personal use.e
+your local machine for your personal use
 
 ### Prerequisites
 
