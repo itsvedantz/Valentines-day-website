@@ -1,6 +1,4 @@
-# Song lyrics
-(90mh by Svaroda)
-
+# Valentines day website
 Made with HTML, CSS and JS
 
 https://defrostedjpg.github.io/Valentines-day-website/Website/
@@ -46,4 +44,4 @@ details
 
 ## Acknowledgments
 
-Inspired by [@kkkinittt](https://www.tiktok.com/@kkkinittt?_t=8ljwD7guqf3&_r=1) on tiktok
+Inspired by [mewtru.com](https://valentine.mewtru.com/)
