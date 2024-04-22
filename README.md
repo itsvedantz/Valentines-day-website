@@ -44,4 +44,4 @@ details
 
 ## Acknowledgments
 
-Inspired by [mewtru.com](https://valentine.mewtru.com/)
+Inspired by [@kkkinittt](https://www.tiktok.com/@kkkinittt?_t=8ljwD7guqf3&_r=1) on tiktok
